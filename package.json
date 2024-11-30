@@ -1,0 +1,14 @@
+{
+  "name": "tailwind_demo",
+  "version": "1.0.0",
+  "description": "Tailwind",
+  "main": "postcss.config.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vite": "^6.0.1"
+  }
+}
